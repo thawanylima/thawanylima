@@ -8,10 +8,10 @@ Neste espaço, compartilho projetos de estudo e pessoais relacionados ao meu apr
 
 <div>
 <a href="https://github.com/thawanylima">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=thawanylima&show_icons=true&theme=tokyonight" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=thawanylima&show_icons=true&theme=tokyonight&hide=stars" />
 </a>
 <a href="https://github.com/thawanylima">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thawanylima&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thawanylima&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
 </a>
 </div>
 
