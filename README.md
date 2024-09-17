@@ -1,10 +1,9 @@
 ## Olá! Bem-vindo ao meu GitHub!👋
+
 #### Sou Thawany Lima, estudante de Sistemas de Informação no Instituto Federal de São Paulo. 
 
-#### Neste espaço, compartilho projetos de estudo e pessoais relacionados ao meu aprendizado em programação full stack.
-
-
-          
+Neste espaço, compartilho projetos de estudo e pessoais relacionados ao meu aprendizado em programação full stack.
+      
 ## 
 
 <div>
@@ -22,11 +21,10 @@
 
 Atualmente, estou focada no desenvolvimento web e no fortalecimento das minhas habilidades com as seguintes tecnologias:
 
-- **HTML5**: Estruturas semânticas e acessíveis.
-- **CSS3**: Design responsivo e estilização avançada.
-- **JavaScript**: Funcionalidades dinâmicas e interatividade.
-- **Java**: Aplicações orientadas a objetos no backend.
-
+- **HTML5**: Estou aprendendo a criar estruturas semânticas e acessíveis para garantir uma melhor experiência do usuário.
+- **CSS3**: Explorando o design responsivo e técnicas avançadas de estilização para tornar os sites visualmente atraentes e funcionais.
+- **JavaScript**: Aprendendo o desenvolvimento de funcionalidades dinâmicas, interatividade para criar experiências mais ricas e interativas.
+- **Java**: Estou aprendendo Java para desenvolvimento de aplicações robustas e orientadas a objetos.
 
 <div>
   <img align="center" alt="HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg">
@@ -35,8 +33,11 @@ Atualmente, estou focada no desenvolvimento web e no fortalecimento das minhas h
   <img align="center" alt="HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
 </div>
 
-##
+## 
+
+### 🌐 Redes Sociais
+
 <div>
 <a href="https://www.linkedin.com/in/thawanylima/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
-  
+
 </div>
