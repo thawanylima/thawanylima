@@ -2,7 +2,7 @@
 
 #### Sou Thawany Lima, estudante de Sistemas de Informação no Instituto Federal de São Paulo. 
 
-Neste espaço, compartilho projetos de estudo e pessoais relacionados ao meu aprendizado em programação full stack.
+Neste espaço, compartilho projetos pessoais e de estudo relacionados ao meu aprendizado em programação full stack.
       
 ## 
 
